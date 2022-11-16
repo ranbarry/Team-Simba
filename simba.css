@@ -36,9 +36,8 @@ h1 {
   cursor: pointer; 
   margin-left: 100px;
   margin-top: 100px;
-
-  
-
 }
 
-
+body{
+  background-color: aquamarine;
+}
